@@ -1,0 +1,6 @@
+{
+  "name": "MiniK8s Orchestrator",
+  "description": "A miniature container orchestration control loop dashboard simulating Docker API interaction.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
